@@ -27,16 +27,16 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "async": "~0.2.10",
-    "resumer": "0.0.0",
-    "concat-stream": "~1.4.1",
-    "exorcist": "~0.1.5"
+    "async": "^1.0.0",
+    "concat-stream": "^1.4.8",
+    "exorcist": "^0.4.0",
+    "resumer": "0.0.0"
   },
   "devDependencies": {
-    "grunt-contrib-jshint": "~0.6.0",
-    "grunt-contrib-clean": "~0.4.0",
-    "grunt-contrib-nodeunit": "~0.2.0",
-    "grunt": "~0.4.2"
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-nodeunit": "^0.4.1"
   },
   "peerDependencies": {
     "grunt": "0.4.x"
